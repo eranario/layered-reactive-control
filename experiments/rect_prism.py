@@ -22,4 +22,4 @@ prism_maximum = (10, 10, 10)
 
 # Check if the point is within the prism
 is_within_prism = is_point_in_rect_prism(point_to_check, prism_minimum, prism_maximum)
-is_within_prism
+print(is_within_prism)
